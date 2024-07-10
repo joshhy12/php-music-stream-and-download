@@ -43,12 +43,6 @@ Before running the application, make sure you have the following installed:
 ## Bash Script
 
 The `deploy.sh` bash script is provided to automate the deployment process. Here's how to use it:
- 
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ```bash
 # Navigate to the project directory
@@ -56,4 +50,3 @@ cd /path/to/php-music-app
 
 # Run the deployment script
 ./deploy.sh
-
